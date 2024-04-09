@@ -1,4 +1,4 @@
-# PassIn App 
+## PassIn App 🔖
 
 Registered participants can generate a credential for check-in on the event day, and the system scans their credential for event entry.
 
